@@ -18,15 +18,15 @@
 
 ## Financify Layout
 ### Home Page - Desktop
-()
+(https://github.com/Josiah-AG/Financify/blob/main/images/Financify_home_page.png)
 ### Home Page - Mobile
-()
+(https://github.com/Josiah-AG/Financify/blob/main/images/Financify_home_page_mobile.png)
 ### Dashboard - Desktop 
-()
+(https://github.com/Josiah-AG/Financify/blob/main/images/Financify_Dashboard.png)
 ### Dashboard - Mobile
-()
+(https://github.com/Josiah-AG/Financify/blob/main/images/Financify_Dashboard_light_mobile.png)
 ### Dashboard - Dark Mode
-()
+(https://github.com/Josiah-AG/Financify/blob/main/images/Financify_Dashboard_dark.png)
 
 ### Dashboard - Dark Mode - Mobile
-()
+(https://github.com/Josiah-AG/Financify/blob/main/images/Financify_Dashboard_dark_mobile.png)
