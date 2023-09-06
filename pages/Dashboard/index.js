@@ -177,7 +177,7 @@ const Form = {
       Swal.fire({
         icon: "warning",
         title: "Oops...",
-        text: "Por favor, preencha todos os campos!",
+        text: "Please, fill in all the fields",
       });
       throw new Error("Please, fill in all the fields");
     }
