@@ -179,7 +179,7 @@ const Form = {
         title: "Oops...",
         text: "Por favor, preencha todos os campos!",
       });
-      throw new Error("Por favor, preencha todos os campos");
+      throw new Error("Please, fill in all the fields");
     }
   },
 
